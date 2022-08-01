@@ -1,0 +1,28 @@
+{
+    "name": "primitive-values",
+    "version": "1.0.0",
+    "description": "Project to practice primitive values",
+    "main": "src/index.html",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IselaReyesPerdomo94/primitive-values.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/IselaReyesPerdomo94/primitive-values/issues"
+    },
+    "homepage": "https://github.com/IselaReyesPerdomo94/primitive-values#readme",
+    "devDependencies": {
+        "eslint": "^8.20.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.26.0",
+        "jest": "^28.1.3"
+    },
+    "dependencies": {
+        "eslint-config-prettier": "^8.5.0"
+    }
+}
