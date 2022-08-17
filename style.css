@@ -1,13 +1,12 @@
 body {color: rgb(26, 154, 152);
 	background-color: blanchedalmond;
-
-	font-size:x-large;;
+	font-size:x-large;
 	text-align: center;
 }
 .serv{
-	background-color: rgb(245, 207, 242);
-	align-items: center;
-	margin: 50px;
+	margin: 6%;
+	padding: 2%;
+	border:rgb(26, 154, 152) 2px solid;
 }
 .invisible{
 	display: none;
@@ -15,3 +14,9 @@ body {color: rgb(26, 154, 152);
 .visible{
 	display: block;
 }
+img.imag{
+	float: left;
+	max-width: 20%;
+}
+
+
