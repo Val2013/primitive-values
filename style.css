@@ -4,3 +4,8 @@ body {color: rgb(26, 154, 152);
 	font-size:x-large;;
 	text-align: center;
 }
+.serv{
+	background-color: rgb(245, 207, 242);
+	align-items: center;
+	margin: 50px;
+}
