@@ -9,3 +9,9 @@ body {color: rgb(26, 154, 152);
 	align-items: center;
 	margin: 50px;
 }
+.invisible{
+	display: none;
+}
+.visible{
+	display: block;
+}
